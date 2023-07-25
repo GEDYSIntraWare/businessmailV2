@@ -27,13 +27,13 @@ xsi:type="MailApp">
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2"/>
+        <SourceLocation DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2/"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2"/>
+        <SourceLocation DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2/"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -173,8 +173,8 @@ xsi:type="MailApp">
       </bt:Images>
       <bt:Urls>
         <!-- <bt:Url id="Commands.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2/commands.html"/> -->
-        <bt:Url id="Taskpane.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2"/>
-        <bt:Url id="WebViewRuntime.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2/"/>
+        <bt:Url id="WebViewRuntime.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2/" />
         <!-- <bt:Url id="JSRuntime.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailV2/commands/commands.js" /> /commands/commands.html-->
       </bt:Urls>
       <bt:ShortStrings>
